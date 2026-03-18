@@ -46,6 +46,11 @@ body * {
   padding: 0 1.5rem;
 }
 
+.img-perfil {
+  height: 65px;
+  width: 75px;
+}
+
 /* profile */
 #profile {
   text-align: center;  
