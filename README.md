@@ -13,14 +13,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="projeto DevLinks" src="./assets/project.png" width="100%">
-</p>
-
-<p align="center">
-  <img alt="projeto DevLinks" src="./assets/project-light-mode.png" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
